@@ -16,7 +16,7 @@ Para instalar, acesse a sessão de [Downloads](https://www.anaconda.com/download
 
 > 👋 Dê preferência ao Google Colab por não ter que instalar nenhuma dependência e focar exatamente no trabalho proposto!
 
-📕 Versão Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/iap-bpm-python-dados-ia-estimativa-precos-automoveis/blob/master/projeto-final/automobile-price-prediction-colab.ipynb)
+📕 Versão Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia-estimativa-precos-automoveis/blob/master/projeto-final/automobile-price-prediction-colab.ipynb)
 
 ### Projeto guiado
 
